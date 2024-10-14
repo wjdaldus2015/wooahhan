@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'hanna pro';
+    src: url('../font/BMHANNAPro.ttf') format('trueType');
+    font-weight: 400;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet');
